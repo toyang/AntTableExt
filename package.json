@@ -184,6 +184,5 @@
     ]
   },
   "pre-commit": [
-    //"lint-staged"
   ]
 }
